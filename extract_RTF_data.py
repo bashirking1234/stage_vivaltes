@@ -1,4 +1,4 @@
-#Extract RTF data (C) 2024 Bashir Hussein
+#Extract RTF data (C) 2024 Bashir Hussein.
 import os
 
 def read_rtf_file(filepath):
