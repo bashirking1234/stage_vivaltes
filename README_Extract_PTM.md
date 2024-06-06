@@ -1,4 +1,4 @@
-# Automated_Regression
+# Extract RTF Data
 
 Automated_Regression is een Python-script ontworpen om specifieke informatie uit een RTF-bestand (Rich Text Format) te extraheren en te bewerken. 
 Dit script is vooral handig voor wetenschappers en onderzoekers die werken met post-translationele modificaties (PTM's) en 
