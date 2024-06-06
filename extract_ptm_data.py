@@ -1,4 +1,4 @@
-#Extract PTM data (C) 2023 Bashir Hussein
+#Extract PTM data (C) 2024 Bashir Hussein
 import os
 
 def read_rtf_file(filepath):
