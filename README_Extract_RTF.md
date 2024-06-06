@@ -53,7 +53,7 @@ Python Licensing
 This project uses Python, which is released under the Python Software Foundation (PSF) License. 
 The PSF License is a permissive open-source license that allows you to freely use, modify, and distribute Python for any purpose, including commercial applications.
 
-For more details, please refer to the PSF License Agreement.
+For more details, please refer to the (PSF License Agreement).
 
 Extract_PTM_data is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
 
