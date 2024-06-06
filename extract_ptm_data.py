@@ -1,4 +1,4 @@
-#Automated_Regression Copyright (C) 2023 Bashir Hussein
+#Extract PTM data (C) 2023 Bashir Hussein
 import os
 
 def read_rtf_file(filepath):
