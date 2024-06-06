@@ -32,7 +32,7 @@ de atoomverbindingen binnen deze modificaties willen analyseren.
 
   
     rtf_filepath = "/pad/naar/jouw/RTF-bestand.txt"
-    output_path = "/pad/naar/jouw/uitvoerbestand.txt"
+    output_path = "/pad/naar/jouw/outputfile.txt"
   
 
 ## Codeoverzicht
@@ -55,7 +55,7 @@ The PSF License is a permissive open-source license that allows you to freely us
 
 For more details, please refer to the (PSF License Agreement).
 
-Extract_PTM_data is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
+Extract_RTF_data is auteursrechtelijk beschermd in (2024) door de HAN University of Applied Sciences. Alle rechten voorbehouden.
 
 ## Auteur
 Bashir Hussein
